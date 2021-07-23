@@ -1,0 +1,35 @@
+{
+    "python.linting.ignorePatterns": [
+        "**/site-packages/**/*.py"
+    ],
+
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-snippets.autoSuggestionOn": true,
+    "remote.SSH.remotePlatform": {
+        "143.248.158.12": "linux",
+        "183.111.96.111": "linux"
+    },
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Dracula Soft",
+    "oneDarkPro.italic": true,
+    "editor.matchBrackets": false,
+    "editor.occurrencesHighlight": false,
+    "tabout.disableByDefault": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.integrated.inheritEnv": false,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+}
